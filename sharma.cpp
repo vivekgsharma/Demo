@@ -10,4 +10,5 @@ int main()
     cout<<"this is the most authentic";
     cout<<fun(4,6);
     cout<<"test";
+    cout<<"test";cout<<"test";
 }
